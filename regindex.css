@@ -1,0 +1,44 @@
+ .box{
+    
+    width: 450px;
+    height: 350px;
+    background-color:white;
+    position: absolute;
+    top: 0px;
+    margin-left: 800px;
+    margin-top: 180px;
+    border-radius: 60px;
+} 
+.Firstname{
+    position: absolute;
+    top: 0px;
+    margin-left: 900px;
+    margin-top: 260px;;
+        
+    
+    
+}
+.Lastname{
+    position: absolute;
+    top: 0px;
+    margin-left: 900px;
+    margin-top: 300px;
+}
+.Email{
+    position: absolute;
+    top: 0px;
+    margin-left: 900px;
+    margin-top: 340px;
+
+}
+
+.button{
+    position: absolute;
+    top: 0px;
+    width: 80px;
+    border-radius: 50px;
+    margin-left: 950px;
+    margin-top: 400px;
+
+
+}
